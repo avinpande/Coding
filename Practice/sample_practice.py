@@ -7,4 +7,4 @@ for x in range(0, 5):
 for x in ls:
     if x == 20 :
         list(x).append(10)
-print(len(ls))
+print(len(ls),ls)
