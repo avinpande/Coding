@@ -1,3 +1,4 @@
+#Binary search Program
 def binary_search(ls, key):
     index = 0
     middle_key = int((index + len(ls)) / 2)
