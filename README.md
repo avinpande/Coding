@@ -1,1 +1,1 @@
-# Galaxy,Iphone
+# Galaxy,Iphone,don`t buy
