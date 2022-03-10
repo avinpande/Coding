@@ -2,7 +2,7 @@ import logging
 
 from sas7bdat import SAS7BDAT
 import sys
-import pandas as pd
+
 
 
 def write_sas7bdat(source_file_path, target_file_path):
