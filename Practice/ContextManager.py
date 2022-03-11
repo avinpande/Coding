@@ -1,3 +1,6 @@
+# Python Context Manager program
+# Functionality demonstration
+
 class ContextManager:
 
     def __init__(self, name, mode):
